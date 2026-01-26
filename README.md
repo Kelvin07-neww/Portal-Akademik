@@ -15,7 +15,7 @@
   </p>
 
   <p align="center">
-    <a href="https://website-proyek-anda.com](https://kelvin07-neww.github.io/Portal-Akademik/">
+    <a href="https://kelvin07-neww.github.io/Portal-Akademik/">
       <img src="https://img.shields.io/badge/🌍_Kunjungi-Website_Live-2ea44f?style=for-the-badge&logo=vercel" height="40" />
     </a>
     <br/>
