@@ -40,18 +40,19 @@
 
 <div align="center">
   <a href="https://ibb.co.com/gLV1SByn">
-    <img src="https://i.ibb.co.com/Rkyn3V25/Screenshot-2026-01-26-212315.png" alt="Screenshot Aplikasi" width="100%" style="border-radius: 15px; box-shadow: 0px 5px 15px rgba(0,0,0,0.2);" />
+    <img src="https://github.com/user-attachments/assets/464bf18b-798a-401f-a18c-7d78d32a9f40" alt="Screenshot Aplikasi" width="100%" style="border-radius: 15px; box-shadow: 0px 5px 15px rgba(0,0,0,0.2);" />
   </a>
-  <sub ><b>Role Akademik, Dapat Menambahkan mahasiswa, yang dimana akan terdaftar di akademik dan dapat mendaftar kursus pada setiap mahasiswa, Namun pada saat ini daftar kursus belum dapat dijalankan karena portal kami masi dalam pengembangan</b>  
- ## 📸 Preview
+  <sub ><b>Role Akademik, Dapat Menambahkan mahasiswa, yang dimana akan terdaftar di akademik dan dapat mendaftar kursus pada setiap mahasiswa, Namun pada saat ini daftar kursus belum dapat dijalankan karena portal kami masi dalam pengembangan</b> 
+  </sub>
 
 <div align="center">
   <a href="https://ibb.co.com/gLV1SByn">
-    <img src="https://i.ibb.co.com/Rkyn3V25/Screenshot-2026-01-26-212315.png" alt="Screenshot Aplikasi" width="100%" style="border-radius: 15px; box-shadow: 0px 5px 15px rgba(0,0,0,0.2);" />
-  </a>
+    <img src="https://github.com/user-attachments/assets/936e3f61-a498-4e94-8990-aebd3d6cd242" alt="Screenshot Aplikasi" width="100%" style="border-radius: 15px; box-shadow: 0px 5px 15px rgba(0,0,0,0.2);" />
+  </a> 
+  <sub ><b>Role Dosen, Dapat Menginput Absensi dan Nila mahasiswa, Namun pada saat ini Absensi dan Nila mahasiswa belum dapat dijalankan karena portal kami masi dalam pengembangan</b> 
+  </sub>
 </div>
   </a>
-  </sub>
 </div>
 
 ## 👥 Tim & Kontributor
