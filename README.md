@@ -61,7 +61,7 @@ Terima kasih kepada teman-teman hebat yang telah berkontribusi dalam membangun p
       <span>👑 Lead Dev</span>
     </td>
     <td align="center">
-      <a href="">
+      <a href="https://github.com/Kelvin07-neww">
         <img src="https://github.com/username-teman1.png" width="100px;" alt="" style="border-radius: 50%"/>
         <br />
         <sub><b>Jordan Kelvin</b></sub>
