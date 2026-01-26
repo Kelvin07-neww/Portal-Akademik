@@ -40,7 +40,7 @@
 ## 📸 Preview
 
 <div align="center">
-  <img src="https://i.imgur.com/2c732R6.png" alt="App Screenshot" width="800" style="border-radius: 15px; box-shadow: 0px 5px 15px rgba(0,0,0,0.2);" />
+  <img src="https://image2url.com/r2/default/images/1769437469445-d305dcd9-2c70-4dfa-9d8c-f4a642e51c02.png" alt="App Screenshot" width="800" style="border-radius: 15px; box-shadow: 0px 5px 15px rgba(0,0,0,0.2);" />
 </div>
 
 ---
