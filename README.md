@@ -36,14 +36,23 @@
 </div>
 
 ---
-
 ## 📸 Preview
 
 <div align="center">
-  <img src="https://cdn.corenexis.com/view/5392522168" alt="App Screenshot" width="800" style="border-radius: 15px; box-shadow: 0px 5px 15px rgba(0,0,0,0.2);" />
-</div>
+  <a href="https://ibb.co.com/gLV1SByn">
+    <img src="https://i.ibb.co.com/Rkyn3V25/Screenshot-2026-01-26-212315.png" alt="Screenshot Aplikasi" width="100%" style="border-radius: 15px; box-shadow: 0px 5px 15px rgba(0,0,0,0.2);" />
+  </a>
+  <sub ><b>Role Akademik, Dapat Menambahkan mahasiswa, yang dimana akan terdaftar di akademik dan dapat mendaftar kursus pada setiap mahasiswa, Namun pada saat ini daftar kursus belum dapat dijalankan karena portal kami masi dalam pengembangan</b>  
+ ## 📸 Preview
 
----
+<div align="center">
+  <a href="https://ibb.co.com/gLV1SByn">
+    <img src="https://i.ibb.co.com/Rkyn3V25/Screenshot-2026-01-26-212315.png" alt="Screenshot Aplikasi" width="100%" style="border-radius: 15px; box-shadow: 0px 5px 15px rgba(0,0,0,0.2);" />
+  </a>
+</div>
+  </a>
+  </sub>
+</div>
 
 ## 👥 Tim & Kontributor
 
