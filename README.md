@@ -7,7 +7,7 @@
   <br />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=3578E5&center=true&vCenter=true&width=435&lines=NAMA+PROYEK+ANDA;Solusi+Terbaik+2024;Cepat.+Aman.+Efisien." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=3578E5&center=true&vCenter=true&width=500&lines=Portal_Akademik;Solusi+Terbaik+2026;Cepat.+Aman.+Efisien." alt="Typing SVG" />
   </a>
 
   <p align="center">
