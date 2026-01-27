@@ -36,24 +36,55 @@
 </div>
 
 ---
-## 📸 Preview
+
+## 📸 Preview & Demo
 
 <div align="center">
-  <a href="https://ibb.co.com/gLV1SByn">
-    <img src="https://github.com/user-attachments/assets/464bf18b-798a-401f-a18c-7d78d32a9f40" alt="Screenshot Aplikasi" width="100%" style="border-radius: 15px; box-shadow: 0px 5px 15px rgba(0,0,0,0.2);" />
-  </a>
-  <sub ><b>Role Akademik, Dapat Menambahkan mahasiswa, yang dimana akan terdaftar di akademik dan dapat mendaftar kursus pada setiap mahasiswa, Namun pada saat ini daftar kursus belum dapat dijalankan karena portal kami masi dalam pengembangan</b> 
-  </sub>
+  <img src="https://github.com/user-attachments/assets/464bf18b-798a-401f-a18c-7d78d32a9f40" alt="Dashboard Akademik" width="100%" style="border-radius: 15px; box-shadow: 0px 5px 15px rgba(0,0,0,0.2);" />
+  <br />
+  <p>
+    <sub>
+      <b>Role Akademik:</b> Dapat menambahkan data mahasiswa yang akan terdaftar di sistem dan mendaftarkan kursus. 
+      <i>(Catatan: Fitur kursus saat ini masih dalam tahap pengembangan).</i>
+    </sub>
+  </p>
+  
+  <br />
 
-<div align="center">
-  <a href="https://ibb.co.com/gLV1SByn">
-    <img src="https://github.com/user-attachments/assets/936e3f61-a498-4e94-8990-aebd3d6cd242" alt="Screenshot Aplikasi" width="100%" style="border-radius: 15px; box-shadow: 0px 5px 15px rgba(0,0,0,0.2);" />
-  </a> 
-  <sub ><b>Role Dosen, Dapat Menginput Absensi dan Nila mahasiswa, Namun pada saat ini Absensi dan Nila mahasiswa belum dapat dijalankan karena portal kami masi dalam pengembangan</b> 
-  </sub>
+  <img src="https://github.com/user-attachments/assets/936e3f61-a498-4e94-8990-aebd3d6cd242" alt="Dashboard Dosen" width="100%" style="border-radius: 15px; box-shadow: 0px 5px 15px rgba(0,0,0,0.2);" />
+  <br />
+  <p>
+    <sub>
+      <b>Role Dosen:</b> Dapat menginput absensi dan nilai mahasiswa. 
+      <i>(Catatan: Modul input nilai dan absensi saat ini masih dalam tahap pengembangan).</i>
+    </sub>
+  </p>
 </div>
-  </a>
-</div>
+
+---
+
+## 📚 Fitur & Modul Sistem
+
+Sistem ini memiliki pembagian hak akses (Role) yang terintegrasi untuk memudahkan operasional kampus:
+
+### 🏛️ User Akademik
+> *Dirancang untuk memusatkan kendali administrasi mahasiswa di bagian akademik.*
+
+* **Input Data Mahasiswa:** Memungkinkan staff mendaftarkan identitas lengkap mahasiswa ke database universitas (Nama, NIM, Prodi, Fakultas, dll).
+* **Pembuatan Akun Mahasiswa:** Setelah data diinput, akademik dapat meng-generate akun agar mahasiswa bisa mengakses portal layanan pembelajaran.
+
+### 👨‍🏫 User Dosen
+> *Dirancang untuk mendigitalisasi tugas administratif dosen agar lebih praktis, akurat, dan transparan.*
+
+* **Presensi Digital:** Mencatat kehadiran mahasiswa secara *real-time*. Sistem otomatis menghitung persentase kehadiran sebagai syarat ujian untuk meminimalkan manipulasi data.
+* **Manajemen Nilai:** Input nilai komponen (Tugas, Kuis, UTS, UAS) secara sistematis. Nilai akhir dihitung otomatis berdasarkan bobot, menghapus beban perhitungan manual.
+
+### 👪 User Orang Tua
+> *Jembatan informasi antara institusi pendidikan dan keluarga untuk keamanan serta kedisiplinan.*
+
+* **Pemberitahuan Kehadiran:** Mengirim notifikasi otomatis kepada orang tua segera setelah dosen melakukan input absen, memastikan orang tua mengetahui anaknya hadir tepat waktu.
+
+---
 
 ## 👥 Tim & Kontributor
 
@@ -72,7 +103,7 @@ Terima kasih kepada teman-teman hebat yang telah berkontribusi dalam membangun p
     </td>
     <td align="center">
       <a href="https://github.com/Kelvin07-neww">
-        <img src="https://github.com/username-teman1.png" width="100px;" alt="" style="border-radius: 50%"/>
+        <img src="https://github.com/Kelvin07-neww.png" width="100px;" alt="" style="border-radius: 50%"/>
         <br />
         <sub><b>Jordan Kelvin</b></sub>
       </a>
