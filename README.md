@@ -92,10 +92,10 @@ Sistem ini memiliki pembagian hak akses (Role) yang terintegrasi untuk memudahka
       <a href="https://github.com/username-anda">
         <img src="https://github.com/username-anda.png" width="100px;" alt="" style="border-radius: 50%"/>
         <br />
-        <sub><b>Nama Anda</b></sub>
+        <sub><b>Grace</b></sub>
       </a>
       <br />
-      <span>👑 Lead Dev</span>
+      <span> Lead Dev</span>
       <br />
       <br />
       <img src="https://img.shields.io/badge/Kontribusi-80%25-success?style=flat-square" alt="80%" />
@@ -110,19 +110,79 @@ Sistem ini memiliki pembagian hak akses (Role) yang terintegrasi untuk memudahka
       <span>🎨 Frontend</span>
       <br />
       <br />
-      <img src="https://img.shields.io/badge/Kontribusi-65%25-blue?style=flat-square" alt="100%" />
+      <img src="https://img.shields.io/badge/Kontribusi-100%25-blue?style=flat-square" alt="100%" />
     </td>
     <td align="center">
-      <a href="https://github.com/username-teman2">
+      <a href="https://github.com/Kelvin07-neww">
         <img src="https://github.com/username-teman2.png" width="100px;" alt="" style="border-radius: 50%"/>
         <br />
-        <sub><b>Nama Teman 2</b></sub>
+        <sub><b>Jordan Kelvin </b></sub>
       </a>
       <br />
       <span>⚙️ Backend</span>
       <br />
       <br />
-      <img src="https://img.shields.io/badge/Kontribusi-40%25-orange?style=flat-square" alt="40%" />
+      <img src="https://img.shields.io/badge/Kontribusi-100%25-orange?style=flat-square" alt="100%" />
+    </td>
+     <td align="center">
+      <a href="">
+        <img src="https://github.com/username-teman2.png" width="100px;" alt="" style="border-radius: 50%"/>
+        <br />
+        <sub><b> Hendrawan Putra </b></sub>
+      </a>
+      <br />
+      <span>⚙️ Backend</span>
+      <br />
+      <br />
+      <img src="https://img.shields.io/badge/Kontribusi-80%25-orange?style=flat-square" alt="100%" />
+    </td>
+     <td align="center">
+      <a href="https://github.com/Kelvin07-neww">
+        <img src="https://github.com/username-teman2.png" width="100px;" alt="" style="border-radius: 50%"/>
+        <br />
+        <sub><b> Zaskia Fitri </b></sub>
+      </a>
+      <br />
+      <span>⚙️ Backend</span>
+      <br />
+      <br />
+      <img src="https://img.shields.io/badge/Kontribusi-80%25-orange?style=flat-square" alt="100%" />
+    </td>
+     <td align="center">
+      <a href="">
+        <img src="https://github.com/username-teman2.png" width="100px;" alt="" style="border-radius: 50%"/>
+        <br />
+        <sub><b> Syalomita  </b></sub>
+      </a>
+      <br />
+      <span> User Tester </span>
+      <br />
+      <br />
+      <img src="https://img.shields.io/badge/Kontribusi-80%25-red?style=flat-square" alt="100%" />
+    </td>
+    <td align="center">
+      <a href="">
+        <img src="https://github.com/username-teman2.png" width="100px;" alt="" style="border-radius: 50%"/>
+        <br />
+        <sub><b> Afrina </b></sub>
+      </a>
+      <br />
+      <span> UI/UX </span>
+      <br />
+      <br />
+      <img src="https://img.shields.io/badge/Kontribusi-80%25-purple?style=flat-square" alt="100%" />
+    </td>
+    <td align="center">
+      <a href="">
+        <img src="https://github.com/username-teman2.png" width="100px;" alt="" style="border-radius: 50%"/>
+        <br />
+        <sub><b> Azzura  </b></sub>
+      </a>
+      <br />
+      <span> Analyst </span>
+      <br />
+      <br />
+      <img src="https://img.shields.io/badge/Kontribusi-80%25-yellow?style=flat-square" alt="100%" />
     </td>
   </tr>
 </table>
