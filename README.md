@@ -98,7 +98,7 @@ Sistem ini memiliki pembagian hak akses (Role) yang terintegrasi untuk memudahka
       <span> Lead Dev</span>
       <br />
       <br />
-      <img src="https://img.shields.io/badge/Kontribusi-80%25-success?style=flat-square" alt="80%" />
+      <img src="https://img.shields.io/badge/Kontribusi-80%25-blue?style=flat-square" alt="80%" />
     </td>
     <td align="center">
       <a href="https://github.com/Kelvin07-neww">
@@ -110,7 +110,7 @@ Sistem ini memiliki pembagian hak akses (Role) yang terintegrasi untuk memudahka
       <span>🎨 Frontend</span>
       <br />
       <br />
-      <img src="https://img.shields.io/badge/Kontribusi-100%25-blue?style=flat-square" alt="100%" />
+      <img src="https://img.shields.io/badge/Kontribusi-100%25-succes?style=flat-square" alt="100%" />
     </td>
     <td align="center">
       <a href="https://github.com/Kelvin07-neww">
@@ -122,7 +122,7 @@ Sistem ini memiliki pembagian hak akses (Role) yang terintegrasi untuk memudahka
       <span>⚙️ Backend</span>
       <br />
       <br />
-      <img src="https://img.shields.io/badge/Kontribusi-100%25-orange?style=flat-square" alt="100%" />
+      <img src="https://img.shields.io/badge/Kontribusi-100%25-succes?style=flat-square" alt="100%" />
     </td>
      <td align="center">
       <a href="">
@@ -134,7 +134,7 @@ Sistem ini memiliki pembagian hak akses (Role) yang terintegrasi untuk memudahka
       <span>⚙️ Backend</span>
       <br />
       <br />
-      <img src="https://img.shields.io/badge/Kontribusi-80%25-orange?style=flat-square" alt="100%" />
+      <img src="https://img.shields.io/badge/Kontribusi-80%25-blue?style=flat-square" alt="100%" />
     </td>
      <td align="center">
       <a href="https://github.com/Kelvin07-neww">
@@ -146,7 +146,7 @@ Sistem ini memiliki pembagian hak akses (Role) yang terintegrasi untuk memudahka
       <span>⚙️ Backend</span>
       <br />
       <br />
-      <img src="https://img.shields.io/badge/Kontribusi-80%25-orange?style=flat-square" alt="100%" />
+      <img src="https://img.shields.io/badge/Kontribusi-80%25-blue?style=flat-square" alt="100%" />
     </td>
      <td align="center">
       <a href="">
@@ -158,7 +158,7 @@ Sistem ini memiliki pembagian hak akses (Role) yang terintegrasi untuk memudahka
       <span> User Tester </span>
       <br />
       <br />
-      <img src="https://img.shields.io/badge/Kontribusi-80%25-red?style=flat-square" alt="100%" />
+      <img src="https://img.shields.io/badge/Kontribusi-80%25-blue?style=flat-square" alt="100%" />
     </td>
     <td align="center">
       <a href="">
@@ -170,7 +170,7 @@ Sistem ini memiliki pembagian hak akses (Role) yang terintegrasi untuk memudahka
       <span> UI/UX </span>
       <br />
       <br />
-      <img src="https://img.shields.io/badge/Kontribusi-80%25-purple?style=flat-square" alt="100%" />
+      <img src="https://img.shields.io/badge/Kontribusi-80%25-blue?style=flat-square" alt="100%" />
     </td>
     <td align="center">
       <a href="">
@@ -182,7 +182,7 @@ Sistem ini memiliki pembagian hak akses (Role) yang terintegrasi untuk memudahka
       <span> Analyst </span>
       <br />
       <br />
-      <img src="https://img.shields.io/badge/Kontribusi-80%25-yellow?style=flat-square" alt="100%" />
+      <img src="https://img.shields.io/badge/Kontribusi-80%25-blue?style=flat-square" alt="100%" />
     </td>
   </tr>
 </table>
