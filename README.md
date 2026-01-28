@@ -85,7 +85,7 @@ Sistem ini memiliki pembagian hak akses (Role) yang terintegrasi untuk memudahka
 * **Pemberitahuan Kehadiran:** Mengirim notifikasi otomatis kepada orang tua segera setelah dosen melakukan input absen, memastikan orang tua mengetahui anaknya hadir tepat waktu.
 
 ---
-
+### Kontribusi Team
 <table>
   <tr>
     <td align="center">
@@ -100,7 +100,6 @@ Sistem ini memiliki pembagian hak akses (Role) yang terintegrasi untuk memudahka
       <br />
       <img src="https://img.shields.io/badge/Kontribusi-80%25-success?style=flat-square" alt="80%" />
     </td>
-
     <td align="center">
       <a href="https://github.com/Kelvin07-neww">
         <img src="https://github.com/Kelvin07-neww.png" width="100px;" alt="" style="border-radius: 50%"/>
@@ -111,9 +110,8 @@ Sistem ini memiliki pembagian hak akses (Role) yang terintegrasi untuk memudahka
       <span>🎨 Frontend</span>
       <br />
       <br />
-      <img src="https://img.shields.io/badge/Kontribusi-65%25-blue?style=flat-square" alt="65%" />
+      <img src="https://img.shields.io/badge/Kontribusi-65%25-blue?style=flat-square" alt="100%" />
     </td>
-
     <td align="center">
       <a href="https://github.com/username-teman2">
         <img src="https://github.com/username-teman2.png" width="100px;" alt="" style="border-radius: 50%"/>
