@@ -31,7 +31,7 @@
 <div align="center">
   <h3>🛠️ Tech Stack</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,tailwind,ts,nodejs,express,mongodb,docker,git&theme=light" />
+    <img src="https://skillicons.dev/icons?i=react,tailwind,js,nodejs,express,mysql,git&theme=light" />
   </a>
 </div>
 
@@ -57,6 +57,16 @@
     <sub>
       <b>Role Dosen:</b> Dapat menginput absensi dan nilai mahasiswa. 
       <i>(Catatan: Modul input nilai dan absensi saat ini masih dalam tahap pengembangan).</i>
+    </sub>
+  </p>
+  
+   <img src="https://github.com/user-attachments/assets/0325ae34-2d70-4cd4-a635-782a68bebcd2" alt="Dashboard Mahasiswa" width="100%" style="border-radius: 15px; box-shadow: 0px 5px 15px rgba(0,0,0,0.2);" />
+  <br />
+
+  <p>
+    <sub>
+      <b>Role Mahasiswa:</b> Dapat melihat absensi dan nilai mahasiswa. 
+      <i>(Catatan: Modul lihat nilai dan absensi saat ini masih dalam tahap pengembangan).</i>
     </sub>
   </p>
 </div>
