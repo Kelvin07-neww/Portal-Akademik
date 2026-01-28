@@ -16,4 +16,4 @@ Backend untuk Portal Akademik menggunakan Go, MySQL, dan JWT.
 ## Default User
 
 - Email: admin@gmail.com
-- Password: 12345
+- Password: admin123
