@@ -189,6 +189,39 @@ Sistem ini memiliki pembagian hak akses (Role) yang terintegrasi untuk memudahka
 
 ## 🚀 Quick Start
 
-1. **Clone repositori**
-   ```bash
-   git clone (https://kelvin07-neww.github.io/Portal-Akademik/#/login)
+Ikuti langkah-langkah di bawah ini untuk menjalankan proyek ini di komputer lokal Anda.
+
+**Prasyarat:**
+Pastikan Anda sudah menginstall:
+* [Go (Golang)](https://go.dev/dl/) (Minimal versi 1.20)
+* [Node.js](https://nodejs.org/) (Untuk Frontend)
+* [Git](https://git-scm.com/)
+
+### 1. Clone Repositori
+Download source code proyek ini ke komputer Anda.
+```bash
+git clone [https://github.com/Kelvin07-neww/Portal-Akademik.git](https://github.com/Kelvin07-neww/Portal-Akademik.git)
+cd Portal-Akademik
+```
+### 2. Setup Backend
+Buka terminal, masuk ke folder backend, download module, dan jalankan server.
+```bash
+cd backend
+
+# Download dependency
+go mod tidy
+
+# Jalankan server
+go run .
+```
+### 3. Setup Frontend
+Buka terminal baru (tab baru), masuk ke folder frontend, install dependensi, dan jalankan aplikasi.
+```bash
+cd frontend
+npm install
+npm run dev
+```
+
+
+
+
