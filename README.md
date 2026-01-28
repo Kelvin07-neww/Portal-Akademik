@@ -191,4 +191,4 @@ Sistem ini memiliki pembagian hak akses (Role) yang terintegrasi untuk memudahka
 
 1. **Clone repositori**
    ```bash
-   git clone [https://github.com/username/repo-name.git](https://github.com/username/repo-name.git)
+   git clone (https://kelvin07-neww.github.io/Portal-Akademik/#/login)
