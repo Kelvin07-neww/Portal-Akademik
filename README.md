@@ -99,10 +99,10 @@ Sistem ini memiliki pembagian hak akses (Role) yang terintegrasi untuk memudahka
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/username-anda">
+      <a href="https://github.com/GraceDardanella">
         <img src="https://github.com/username-anda.png" width="100px;" alt="" style="border-radius: 50%"/>
         <br />
-        <sub><b>Grace</b></sub>
+        <sub><b>Grace Dardanella Situmorang</b></sub>
       </a>
       <br />
       <span> Lead Dev</span>
@@ -114,7 +114,7 @@ Sistem ini memiliki pembagian hak akses (Role) yang terintegrasi untuk memudahka
       <a href="https://github.com/Kelvin07-neww">
         <img src="https://github.com/Kelvin07-neww.png" width="100px;" alt="" style="border-radius: 50%"/>
         <br />
-        <sub><b>Jordan Kelvin</b></sub>
+        <sub><b>Jordan Kelvin Kelvin Gabriel Siregar</b></sub>
       </a>
       <br />
       <span>🎨 Frontend</span>
@@ -124,9 +124,9 @@ Sistem ini memiliki pembagian hak akses (Role) yang terintegrasi untuk memudahka
     </td>
     <td align="center">
       <a href="https://github.com/Kelvin07-neww">
-        <img src="https://github.com/username-teman2.png" width="100px;" alt="" style="border-radius: 50%"/>
+        <img src="https://github.com/Kelvin07-neww.png" width="100px;" alt="" style="border-radius: 50%"/>
         <br />
-        <sub><b>Jordan Kelvin </b></sub>
+        <sub><b>Jordan Kelvin Kelvin Gabriel Siregar </b></sub>
       </a>
       <br />
       <span>⚙️ Backend</span>
@@ -135,10 +135,10 @@ Sistem ini memiliki pembagian hak akses (Role) yang terintegrasi untuk memudahka
       <img src="https://img.shields.io/badge/Kontribusi-100%25-succes?style=flat-square" alt="100%" />
     </td>
      <td align="center">
-      <a href="">
+      <a href="https://github.com/hendrawanputra">
         <img src="https://github.com/username-teman2.png" width="100px;" alt="" style="border-radius: 50%"/>
         <br />
-        <sub><b> Hendrawan Putra </b></sub>
+        <sub><b> Hendrawan Syaputra </b></sub>
       </a>
       <br />
       <span>⚙️ Backend</span>
@@ -147,10 +147,10 @@ Sistem ini memiliki pembagian hak akses (Role) yang terintegrasi untuk memudahka
       <img src="https://img.shields.io/badge/Kontribusi-80%25-blue?style=flat-square" alt="100%" />
     </td>
      <td align="center">
-      <a href="https://github.com/Kelvin07-neww">
+      <a href="https://github.com/zaskiawitri">
         <img src="https://github.com/username-teman2.png" width="100px;" alt="" style="border-radius: 50%"/>
         <br />
-        <sub><b> Zaskia Fitri </b></sub>
+        <sub><b> Zaskia Witri </b></sub>
       </a>
       <br />
       <span>⚙️ Backend</span>
@@ -159,10 +159,10 @@ Sistem ini memiliki pembagian hak akses (Role) yang terintegrasi untuk memudahka
       <img src="https://img.shields.io/badge/Kontribusi-80%25-blue?style=flat-square" alt="100%" />
     </td>
      <td align="center">
-      <a href="">
-        <img src="https://github.com/username-teman2.png" width="100px;" alt="" style="border-radius: 50%"/>
+      <a href="https://github.com/syalomithatambunan">
+        <img src="" width="100px;" alt="" style="border-radius: 50%"/>
         <br />
-        <sub><b> Syalomita  </b></sub>
+        <sub><b> Syalomita Tambunan </b></sub>
       </a>
       <br />
       <span> User Tester </span>
@@ -171,8 +171,8 @@ Sistem ini memiliki pembagian hak akses (Role) yang terintegrasi untuk memudahka
       <img src="https://img.shields.io/badge/Kontribusi-80%25-blue?style=flat-square" alt="100%" />
     </td>
     <td align="center">
-      <a href="">
-        <img src="https://github.com/username-teman2.png" width="100px;" alt="" style="border-radius: 50%"/>
+      <a href="https://github.com/2403310197-cyber">
+        <img src="" width="100px;" alt="" style="border-radius: 50%"/>
         <br />
         <sub><b> Afrina </b></sub>
       </a>
@@ -183,10 +183,10 @@ Sistem ini memiliki pembagian hak akses (Role) yang terintegrasi untuk memudahka
       <img src="https://img.shields.io/badge/Kontribusi-80%25-blue?style=flat-square" alt="100%" />
     </td>
     <td align="center">
-      <a href="">
-        <img src="https://github.com/username-teman2.png" width="100px;" alt="" style="border-radius: 50%"/>
+      <a href="https://github.com/azzuhramelisaputri-marieno">
+        <img src="" width="100px;" alt="" style="border-radius: 50%"/>
         <br />
-        <sub><b> Azzura  </b></sub>
+        <sub><b> Azzura  Melisa Putri </b></sub>
       </a>
       <br />
       <span> Analyst </span>
